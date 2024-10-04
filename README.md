@@ -1,3 +1,5 @@
+![logo](https://github.com/yee005/yee005/blob/main/COMPUTER%20SCIENCE%20(1).png)
+
 <h1 align="center">Hi 👋, I'm YEESHU KUMAR SAHU</h1>
 <h3 align="center">A passionate frontend from India</h3>
 
